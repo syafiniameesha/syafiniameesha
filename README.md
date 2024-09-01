@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Syafini Ameesha👋</h1>
-<h3 align="center">Junior Fullstack Developer</h3>
+<h1 align="left">Hi, I'm Syafini Ameesha👋</h1>
+<h3 align="left">Junior Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syafiniameesha&label=Profile%20views&color=e8007c&style=flat" alt="syafiniameesha" /> </p>
 
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syafiniameesha&show_icons=true&theme=dark&title_color=e8007c&locale=en&layout=compact" alt="syafiniameesha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syafiniameesha&show_icons=true&theme=dark&title_color=e8007c&locale=en" alt="syafiniameesha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syafiniameesha&show_icons=false&theme=dark&title_color=e8007c&locale=en" alt="syafiniameesha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syafiniameesha&theme=dark" alt="syafiniameesha" /></p>
