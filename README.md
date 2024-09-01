@@ -16,9 +16,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syafiniameesha&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1&custom_title=Statistic" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syafiniameesha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=syafiniameesha&locale=en&mode=weekly&theme=bear&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=syafiniameesha&locale=en&mode=weekly&theme=bear&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syafiniameesha&radius=16&theme=cotton-candy&area=true&order=5&line=ff007f&color=ff007f&title_color=ff007f&point=ff007f&area_color=ff007f" height="300" alt="activity-graph graph"  />
 </div>
+
+###
 
 <img src="https://raw.githubusercontent.com/syafiniameesha/syafiniameesha/output/snake.svg" alt="Snake animation" />
 
