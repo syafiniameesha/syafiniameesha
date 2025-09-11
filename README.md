@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Syafini Ameesha👋</h1>
-<h3 align="left">Junior Fullstack Developer</h3>
+<h3 align="left">Junior Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syafiniameesha&label=Profile%20views&color=e8007c&style=flat" alt="syafiniameesha" /> </p>
 
